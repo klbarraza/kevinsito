@@ -1,2 +1,2 @@
 Bienvenidos plebes
-algo sobre mi es que me gustan los perfumes\n
+algo sobre mi es que me gustan los perfumes
